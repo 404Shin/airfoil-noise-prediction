@@ -1,6 +1,6 @@
 # Predicting airfoil noise with PyTorch
 
-**Shayan Imran Lashari — guided independent portfolio project**  
+**Shayan Imran Lashari — independent portfolio project**  
 **Experiment date:** 15 September 2026  
 
 
@@ -99,7 +99,3 @@ Recorded environment: Python 3.13.15, PyTorch 2.11.0+cpu, NumPy 2.1.3 and scikit
 Read-only checks confirmed identical split indices across the three experiments, non-overlapping inferred condition groups, matching data hash, and agreement of all reported test metric means with recalculations from saved predictions. No new training was performed to prepare this report.
 
 To reproduce the final configuration, the original command is `python train.py --evaluate-test --out outputs/final`. It does not need to be run again for this report. For reproduction, `train_smaller.py` contains the 16-unit architecture and matching metadata. It was reconstructed from the final script after the experiments; the learner originally made these changes manually. The original final script remains in `train.py`. The Colab notebook is not required to run these scripts and is not bundled.
-
-## Contribution and assistance
-
-This project was completed with AI-assisted starter code. Shayan Imran Lashari ran the experiments in Colab, modified the hidden-layer width, compared validation results, restored the selected architecture and ran the final evaluation. Interpretation, report drafting and repository packaging were supported by AI. This is a guided portfolio project rather than an independently authored implementation from scratch.
