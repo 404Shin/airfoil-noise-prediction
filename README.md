@@ -83,6 +83,6 @@ One small dataset, one grouped split and a limited airfoil family cannot establi
 
 ## Contribution and assistance
 
-This was a guided project using AI-assisted starter code. I ran the experiments in Colab, changed the network width, compared validation results, restored the selected model and performed final evaluation. AI assistance supported interpretation, documentation and repository packaging.
+This project was completed as a guided learning project. AI tools were used for development support, documentation and code review. I personally ran and evaluated the experiments, modified the model architectures and regularisation settings, compared validation performance, selected the final model, analysed the results and verified the reported outputs.
 
 Dataset attribution and its CC BY 4.0 terms are in [data/README.md](data/README.md). This project is not affiliated with NASA or Airbus.
