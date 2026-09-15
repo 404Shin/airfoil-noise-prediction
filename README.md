@@ -81,7 +81,7 @@ No Colab notebook is required: the scripts run the complete experiments. Each ru
 
 One small dataset, one grouped split and a limited airfoil family cannot establish operational aircraft reliability. Three initialisations do not measure uncertainty over alternative datasets. The comparison covers a small set of models and training settings, not every competitive regression method. Residuals show some sizeable errors at high measured noise levels.
 
-## Contribution and assistance
+## Development notes
 
 This project was completed as a guided learning project. AI tools were used for development support, documentation and code review. I personally ran and evaluated the experiments, modified the model architectures and regularisation settings, compared validation performance, selected the final model, analysed the results and verified the reported outputs.
 
