@@ -1,6 +1,6 @@
 # Predicting airfoil noise with PyTorch
 
-**Shayan Imran Lashari — independent portfolio project**  
+**Shayan Imran Lashari — scientific machine learning portfolio project**  
 **Experiment date:** 15 September 2026  
 
 
