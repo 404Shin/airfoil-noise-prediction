@@ -102,4 +102,4 @@ To reproduce the final configuration, the original command is `python train.py -
 
 ## Contribution and assistance
 
-This project was completed with AI-assisted starter code and step-by-step guidance. Shayan Imran Lashari ran the experiments in Colab, modified the hidden-layer width, compared validation results, restored the selected architecture and ran the final evaluation. Interpretation, report drafting and repository packaging were supported by AI. This is a guided portfolio project rather than an independently authored implementation from scratch.
+This project was completed with AI-assisted starter code. Shayan Imran Lashari ran the experiments in Colab, modified the hidden-layer width, compared validation results, restored the selected architecture and ran the final evaluation. Interpretation, report drafting and repository packaging were supported by AI. This is a guided portfolio project rather than an independently authored implementation from scratch.
